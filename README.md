@@ -1,2 +1,2 @@
 # eMERGE
-Crosslin Lab Projects utilizing the eMERGE dataset
+Crosslin Lab Project utilizing the eMERGE dataset for Polygenic Risk Scores 
